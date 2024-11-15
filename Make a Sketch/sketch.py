@@ -10,6 +10,7 @@ def sketch(image):
 
 cam = cv2.VideoCapture(0)
 
+
 while 1:
     ret, frame = cam.read()
     cv2.imshow('thresholded', sketch(frame)[1])
