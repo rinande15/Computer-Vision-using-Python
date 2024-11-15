@@ -1,1 +1,1 @@
-</title>Computer-Vision-using-Pythontitle>
+</title>Computer-Vision-using-Python<title>
